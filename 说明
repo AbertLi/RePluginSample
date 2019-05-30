@@ -1,0 +1,37 @@
+//bug说明
+  Process: one.albert.repluginsample, PID: 32104
+    java.lang.RuntimeException: Unable to start activity ComponentInfo{one.albert.repluginsample/one.albert.repluginsample.loader.a.ActivityN1NRNTS0}: android.content.res.Resources$NotFoundException: Resource ID #0x7f050000 type #0x5 is not valid
+        at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2856)
+        at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2931)
+        at android.app.ActivityThread.-wrap11(Unknown Source:0)
+        at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1620)
+        at android.os.Handler.dispatchMessage(Handler.java:105)
+        at android.os.Looper.loop(Looper.java:176)
+        at android.app.ActivityThread.main(ActivityThread.java:6701)
+        at java.lang.reflect.Method.invoke(Native Method)
+        at com.android.internal.os.Zygote$MethodAndArgsCaller.run(Zygote.java:246)
+        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:783)
+     Caused by: android.content.res.Resources$NotFoundException: Resource ID #0x7f050000 type #0x5 is not valid
+        at android.content.res.Resources.loadXmlResourceParser(Resources.java:2163)
+        at android.content.res.Resources.getLayout(Resources.java:1156)
+        at android.view.LayoutInflater.inflate(LayoutInflater.java:425)
+        at android.view.LayoutInflater.inflate(LayoutInflater.java:374)
+        at com.android.internal.policy.PhoneWindow.setContentView(PhoneWindow.java:418)
+        at android.app.Activity.setContentView(Activity.java:2709)
+        at one.albert.plugin_apk.MainActivity.onCreate(MainActivity.java:13)
+        at android.app.Activity.performCreate(Activity.java:7050)
+        at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1214)
+        at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2809)
+        at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2931) 
+        at android.app.ActivityThread.-wrap11(Unknown Source:0) 
+        at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1620) 
+        at android.os.Handler.dispatchMessage(Handler.java:105) 
+        at android.os.Looper.loop(Looper.java:176) 
+        at android.app.ActivityThread.main(ActivityThread.java:6701) 
+        at java.lang.reflect.Method.invoke(Native Method) 
+        at com.android.internal.os.Zygote$MethodAndArgsCaller.run(Zygote.java:246) 
+        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:783) 
+
+
+
+       处理方式：

@@ -1,0 +1,7 @@
+include ':app'//app模块
+
+//include ':plugin_jar'
+//project(':plugin_jar').projectDir=new File(rootDir,'Plugins/plugin_jar')
+//
+//include ':plugin_apk'
+//project(':plugin_apk').projectDir=new File(rootDir,'Plugins/plugin_apk')
