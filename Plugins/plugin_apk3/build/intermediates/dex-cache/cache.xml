@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioWorkspace\my-plugin-webview\app\build\intermediates\transforms\___ReClass___\debug\jars\1\10\1af2206993d4bb0ba44d40cd623b07fed904fa74_8cc1fe5f2e85236a46b71f1137e53303.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e4879a8dcd709cdba0ed1a9eff4f8d7d0343c03">
+        <dex dex="C:\AndroidStudioWorkspace\my-plugin-webview\app\build\intermediates\pre-dexed\debug\1af2206993d4bb0ba44d40cd623b07fed904fa74_8cc1fe5f2e85236a46b71f1137e53303_44c70688a76d68f3f0017a19ef29e2168fbbe657.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioWorkspace\my-plugin-webview\app\build\intermediates\transforms\___ReClass___\debug\jars\1\10\c739636c63aba594e2d00c9a3f8a8fab37d1e840_33e7a0bd0f835b00092fcc340eea3e2c.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="511dcd48d2372e5faf6fa0ad1125b33892b6e382">
+        <dex dex="C:\AndroidStudioWorkspace\my-plugin-webview\app\build\intermediates\pre-dexed\debug\c739636c63aba594e2d00c9a3f8a8fab37d1e840_33e7a0bd0f835b00092fcc340eea3e2c_aee8c8056d4dd27610a87ed1375b025d425b456c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioWorkspace\my-plugin-webview\app\build\intermediates\transforms\___ReClass___\debug\jars\1\10\495dd763312aa2dab48e39e26edb47d8b6df6b28_24899b9674dfcab1bec325fbefe8f121.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ad0656d47f9add35efe4c2eaba3675b72aa60f5d">
+        <dex dex="C:\AndroidStudioWorkspace\my-plugin-webview\app\build\intermediates\pre-dexed\debug\495dd763312aa2dab48e39e26edb47d8b6df6b28_24899b9674dfcab1bec325fbefe8f121_b4607939f59d009949c527af876ab5d67881192d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioWorkspace\my-plugin-webview\app\build\intermediates\transforms\___ReClass___\debug\jars\1\10\49089ad6292c2cf87f843f5293bbc40a224d89c2_873a1d2da5d1c365b862eb83a3ab7d37.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2dc427f6fc639e924297409766d59571dd05a1af">
+        <dex dex="C:\AndroidStudioWorkspace\my-plugin-webview\app\build\intermediates\pre-dexed\debug\49089ad6292c2cf87f843f5293bbc40a224d89c2_873a1d2da5d1c365b862eb83a3ab7d37_2bd2a85ff50756f54cd945f4ff1c34d51b28ce63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioWorkspace\my-plugin-webview\app\build\intermediates\transforms\___ReClass___\debug\jars\1\10\0cf55c628f6567a9439d9d242a10f6432b849fe4_50e4012612d718d5e738ecb6654a57f0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b139a0e7fc58aacd26de990e140ae0eeb6211559">
+        <dex dex="C:\AndroidStudioWorkspace\my-plugin-webview\app\build\intermediates\pre-dexed\debug\0cf55c628f6567a9439d9d242a10f6432b849fe4_50e4012612d718d5e738ecb6654a57f0_1a5c3d089ca25d2ac7e3ff437341bc7edf71f91f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioWorkspace\my-plugin-webview\app\build\intermediates\transforms\___ReClass___\debug\jars\1\10\4f6f3c667c8c32e71b05d4fdf22ef6b731e17979_b3f0404e22ee8040bdcacb8fb0a3e245.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8b8d352b369701f7c3fda195761fea8f4aecb933">
+        <dex dex="C:\AndroidStudioWorkspace\my-plugin-webview\app\build\intermediates\pre-dexed\debug\4f6f3c667c8c32e71b05d4fdf22ef6b731e17979_b3f0404e22ee8040bdcacb8fb0a3e245_edf95e7fade46265cab5f676b49fc6ab70293e21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioWorkspace\my-plugin-webview\app\build\intermediates\transforms\___ReClass___\debug\jars\1\10\7713a7ab593ed1283a30d93ce47a619efd6128ff_a78d8521f7951c977812ff4ac9790cec.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45bbff0e530417e625214e06202be181731ceed5">
+        <dex dex="C:\AndroidStudioWorkspace\my-plugin-webview\app\build\intermediates\pre-dexed\debug\7713a7ab593ed1283a30d93ce47a619efd6128ff_a78d8521f7951c977812ff4ac9790cec_e4f782c595ff1b46c0b382861129189d0fdbbc6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioWorkspace\my-plugin-webview\app\build\intermediates\transforms\___ReClass___\debug\jars\1\10\804047755164491e96c49917b49e15f62e81fe8c_c58fa40a54d0480b41c6af2f6244a9fa.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aef1033f30698877a11bbfdf429b8f8e289e267d">
+        <dex dex="C:\AndroidStudioWorkspace\my-plugin-webview\app\build\intermediates\pre-dexed\debug\804047755164491e96c49917b49e15f62e81fe8c_c58fa40a54d0480b41c6af2f6244a9fa_147b2ba33e207cf928dc81cd0d117b3d4d296c21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioWorkspace\my-plugin-webview\app\build\intermediates\transforms\___ReClass___\debug\jars\1\10\9ab90b1cfce0601e12782b4c602f6ebd89b3bc28_71f3ef5f940aefaa5ca7f6be17287194.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20f917bc8c6da89c0de3b9695b2b4838c9233ef6">
+        <dex dex="C:\AndroidStudioWorkspace\my-plugin-webview\app\build\intermediates\pre-dexed\debug\9ab90b1cfce0601e12782b4c602f6ebd89b3bc28_71f3ef5f940aefaa5ca7f6be17287194_9dbcd42a1f585a04bee1d4cfc7c9ac71471be150.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioWorkspace\my-plugin-webview\app\build\intermediates\transforms\___ReClass___\debug\jars\1\10\1cbe528da85493e4faeb98ba3d23ed81dfc31451_ff5d378ba7f52ba315264b0f263a0bbe.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a150cd2c6a8a804673b0a3587948d40bf39a00e7">
+        <dex dex="C:\AndroidStudioWorkspace\my-plugin-webview\app\build\intermediates\pre-dexed\debug\1cbe528da85493e4faeb98ba3d23ed81dfc31451_ff5d378ba7f52ba315264b0f263a0bbe_3affb07ba36338b32bb8aa87d9b4b09be6c93bec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioWorkspace\my-plugin-webview\app\build\intermediates\transforms\___ReClass___\debug\jars\1\10\e0add029afd3d9acac6be0a65f204daa542ad927_f48df0b916c572e941d3fa673227c273.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd98e90624855a2938c67ce3d57eeb0411f74e41">
+        <dex dex="C:\AndroidStudioWorkspace\my-plugin-webview\app\build\intermediates\pre-dexed\debug\e0add029afd3d9acac6be0a65f204daa542ad927_f48df0b916c572e941d3fa673227c273_1a4bd076ca5a1905e2df03e5c53ae137e8d19aa2.jar" />
+    </item>
+
+</items>

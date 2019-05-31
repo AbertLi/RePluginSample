@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\15013577251\.android\build-cache\9ff951433a62831df4ebf7be1737572edfab27d6\output\assets"/></dataSet><dataSet config="main"><source path="C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\assets"/><source path="C:\AndroidStudioWorkspace\my-plugin-webview\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\AndroidStudioWorkspace\my-plugin-webview\app\src\debug\assets"/></dataSet></merger>

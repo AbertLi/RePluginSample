@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:17:1-47:12
+	package
+		ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:18:5-51
+		INJECTED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:17:11-69
+	android:versionCode
+		INJECTED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:20:22-64
+application
+ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:22:5-45:19
+MERGED from [com.qihoo360.replugin:replugin-plugin-lib:2.3.2] C:\Users\15013577251\.android\build-cache\9ff951433a62831df4ebf7be1737572edfab27d6\output\AndroidManifest.xml:24:5-25:19
+	android:label
+		ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:26:9-41
+	android:allowBackup
+		ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:24:9-36
+	android:icon
+		ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:25:9-45
+	android:name
+		ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:23:9-68
+meta-data#com.qihoo360.plugin.name
+ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:28:9-30:39
+	android:value
+		ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:29:13-52
+meta-data#com.qihoo360.plugin.version.ver
+ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:31:9-33:35
+	android:value
+		ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:33:13-32
+	android:name
+		ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:32:13-59
+activity#com.qihoo360.replugin.sample.webview.MainActivity
+ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:35:9-44:20
+	android:screenOrientation
+		ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:39:13-49
+	android:exported
+		ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:38:13-36
+	android:configChanges
+		ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:37:13-72
+	android:name
+		ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:36:13-77
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:40:13-43:29
+action#android.intent.action.MAIN
+ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:42:27-74
+uses-sdk
+INJECTED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.qihoo360.replugin:replugin-plugin-lib:2.3.2] C:\Users\15013577251\.android\build-cache\9ff951433a62831df4ebf7be1737572edfab27d6\output\AndroidManifest.xml:22:5-43
+	android:targetSdkVersion
+		INJECTED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:17:1-47:12 reason: com.qihoo360.replugin.library has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:17:1-47:12 reason: com.qihoo360.replugin.library has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\AndroidStudioWorkspace\my-plugin-webview\app\src\main\AndroidManifest.xml:17:1-47:12 reason: com.qihoo360.replugin.library requested WRITE_EXTERNAL_STORAGE

@@ -18,11 +18,14 @@ import java.io.InputStream
  */
 class MainActivity : Activity() {
     //外部插件
-    val pluginFileName = "plugin_apk.apk"
+//    val pluginFileName = "plugin_apk.apk"
 //    val pluginClassName = "one.albert.plugin_apk.MainActivity"
-    val pluginClassName = "one.albert.plugin_apk.MainActivity"
+//    val pluginName = "plugin_apk"
 
-    val pluginName = "plugin_apk"
+    //外部插件
+    val pluginFileName = "webview.apk"
+    val pluginClassName = "com.qihoo360.replugin.sample.webview.MainActivity"
+    val pluginName = "webview"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
