@@ -5,6 +5,7 @@ import android.content.Context
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
+import com.albert.test_maven.SdkManagerInit
 import com.qihoo360.replugin.RePlugin
 import com.qihoo360.replugin.model.PluginInfo
 import com.qihoo360.replugin.utils.FileUtils
@@ -47,6 +48,9 @@ class MainActivity : Activity() {
                 } else {
                     Toast.makeText(this, "not install plugin", Toast.LENGTH_SHORT).show()
                 }
+            }
+            R.id.btn4 -> {
+                SdkManagerInit.init()
             }
         }
     }

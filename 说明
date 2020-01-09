@@ -1,3 +1,11 @@
+了解Replugin的原理。
+19-12-25
+   本想了解阅读源码的环境如何搭建。  https://www.jianshu.com/p/2244bab4b2d5
+   了解gradle插件的调用方式以及时机。  https://www.jianshu.com/p/d53399cd507b
+19-12-26
+   搭建replugin源码查看环境。
+
+
 //bug说明
   Process: one.albert.repluginsample, PID: 32104
     java.lang.RuntimeException: Unable to start activity ComponentInfo{one.albert.repluginsample/one.albert.repluginsample.loader.a.ActivityN1NRNTS0}: android.content.res.Resources$NotFoundException: Resource ID #0x7f050000 type #0x5 is not valid

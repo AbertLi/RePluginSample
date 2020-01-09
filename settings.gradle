@@ -1,7 +1,39 @@
-include ':app'//app模块
+include ':app', ':test_maven'//app模块
+include ':test_gradle'
+project(':test_gradle').projectDir=new File(rootDir,'testGradlePlugin/test_gradle')
+
+include ':test2_gradle'
+project(':test2_gradle').projectDir=new File(rootDir,'testGradlePlugin/test2_gradle')
+
+include ':replugin-host-gradle'
+project(':replugin-host-gradle').projectDir=new File(rootDir,'replugin/replugin-host-gradle')
+
+include ':replugin-host-library'
+project(':replugin-host-library').projectDir=new File(rootDir,'replugin/replugin-host-library')
+
+include ':replugin-plugin-gradle'
+project(':replugin-plugin-gradle').projectDir=new File(rootDir,'replugin/replugin-plugin-gradle')
+
+include ':replugin-plugin-library'
+project(':replugin-plugin-library').projectDir=new File(rootDir,'replugin/replugin-plugin-library')
+
+include ':FrescoHost'
+project(':FrescoHost').projectDir=new File(rootDir,'replugin/replugin-sample-extra-fresco/FrescoHost')
+
+include ':FrescoPlugin'
+project(':FrescoPlugin').projectDir=new File(rootDir,'replugin/replugin-sample-extra-fresco/FrescoPlugin')
+
+
+//include ':replugin-host-library'
+//project(':replugin-host-library').projectDir=new File(rootDir,'replugin/replugin-host-library')
+
+//include ':replugin-plugin-gradle'
+//project(':replugin-plugin-gradle').projectDir=new File(rootDir,'replugin/replugin-plugin-gradle')
+
+//include ':replugin-plugin-library'
+//project(':replugin-plugin-library').projectDir=new File(rootDir,'replugin/replugin-plugin-library')
 
 //include ':plugin_jar'
 //project(':plugin_jar').projectDir=new File(rootDir,'Plugins/plugin_jar')
-//
 //include ':plugin_apk'
 //project(':plugin_apk').projectDir=new File(rootDir,'Plugins/plugin_apk')

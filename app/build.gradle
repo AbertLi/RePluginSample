@@ -1,8 +1,7 @@
 apply plugin: 'com.android.application'
-
 apply plugin: 'kotlin-android'
-
 apply plugin: 'kotlin-android-extensions'
+
 
 android {
     compileSdkVersion 28
@@ -16,6 +15,8 @@ android {
     }
 
     apply plugin: 'replugin-host-gradle'//replugin
+//    apply plugin: 'test_gradle'//引用自定义的gradle插件
+//    apply plugin: com.hc.plugin.SecondPlugin
 
     buildTypes {
         release {
@@ -35,5 +36,6 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 
     //RePlugin插件引用包
-    implementation 'com.qihoo360.replugin:replugin-host-lib:2.3.2'
+    implementation 'com.qihoo360.replugin:replugin-host-lib:2.3.2' //后面不在使用mave方式引用直接使用源码
+    implementation 'com.albert.test_maven:test_maven:1.0.0'
 }

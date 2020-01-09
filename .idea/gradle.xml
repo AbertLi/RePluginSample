@@ -9,6 +9,15 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/replugin/replugin-host-gradle" />
+            <option value="$PROJECT_DIR$/replugin/replugin-host-library" />
+            <option value="$PROJECT_DIR$/replugin/replugin-plugin-gradle" />
+            <option value="$PROJECT_DIR$/replugin/replugin-plugin-library" />
+            <option value="$PROJECT_DIR$/replugin/replugin-sample-extra-fresco/FrescoHost" />
+            <option value="$PROJECT_DIR$/replugin/replugin-sample-extra-fresco/FrescoPlugin" />
+            <option value="$PROJECT_DIR$/testGradlePlugin/test2_gradle" />
+            <option value="$PROJECT_DIR$/testGradlePlugin/test_gradle" />
+            <option value="$PROJECT_DIR$/test_maven" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
