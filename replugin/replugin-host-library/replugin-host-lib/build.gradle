@@ -41,6 +41,22 @@ android {
     defaultPublishConfig "debug"
 }
 
+apply plugin: 'maven' //maven需要的
+uploadArchives {
+    repositories {
+        repositories.mavenDeployer {
+            //提交到远程服务器：
+            // repository(url: "http://www.xxx.com/repos") {
+            //    authentication(userName: "admin", password: "admin")
+            // }
+            repository(url: uri('../abcdef'))//本地的Maven地址
+            pom.groupId = "com.qihoo360.replugin"//唯一标识（通常为模块包名，也可以任意）
+            pom.artifactId = "hostPlugin" // 项目名称（通常为类库模块名称，也可以任意）
+            pom.version = "1.0.0" // 版本号
+        }
+    }
+}
+
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
 

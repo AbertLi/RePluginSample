@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa02ab41-2b79-4283-82ba-15ad777b1d90" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_25_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_25_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_25_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_25_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_25_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_25_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_25_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2020-01-10-15-47-26-852.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2020-01-10-15-48-15-910.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replugin-host-lib/build/generated/source/aidl/debug/com/qihoo360/loader2/IPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replugin-host-lib/build/generated/source/aidl/debug/com/qihoo360/loader2/IPluginClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replugin-host-lib/build/generated/source/aidl/debug/com/qihoo360/loader2/IPluginHost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replugin-host-lib/build/generated/source/aidl/debug/com/qihoo360/loader2/mgr/IServiceConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replugin-host-lib/build/generated/source/aidl/debug/com/qihoo360/loader2/sp/IPref.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replugin-host-lib/build/generated/source/aidl/debug/com/qihoo360/mobilesafe/svcmanager/IServiceChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replugin-host-lib/build/generated/source/aidl/debug/com/qihoo360/replugin/IBinderGetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replugin-host-lib/build/generated/source/aidl/debug/com/qihoo360/replugin/component/service/server/IPluginServiceServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replugin-host-lib/build/generated/source/aidl/debug/com/qihoo360/replugin/packages/IPluginManagerServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replugin-host-lib/build/generated/source/buildConfig/debug/com/qihoo360/mobilesafe/core/BuildConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replugin-host-lib/build/intermediates/bundles/default/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replugin-host-lib/build/intermediates/bundles/default/aidl/com/qihoo360/loader2/PluginBinderInfo.aidl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replugin-host-lib/build/intermediates/bundles/default/aidl/com/qihoo360/replugin/model/PluginInfo.aidl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replugin-host-lib/build/intermediates/bundles/default/aidl/com/qihoo360/replugin/packages/PluginRunningList.aidl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replugin-host-lib/build/intermediates/incremental/compileDebugAidl/dependency.store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replugin-host-lib/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replugin-host-lib/build/intermediates/incremental/packageDebugResources/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replugin-host-lib/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/replugin-host-lib/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/replugin-host-lib/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repository/com/albert/test_maven/test_maven/1.0.0/test_maven-1.0.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repository/com/albert/test_maven/test_maven/1.0.0/test_maven-1.0.0.aar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repository/com/albert/test_maven/test_maven/1.0.0/test_maven-1.0.0.aar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repository/com/albert/test_maven/test_maven/1.0.0/test_maven-1.0.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repository/com/albert/test_maven/test_maven/1.0.0/test_maven-1.0.0.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repository/com/albert/test_maven/test_maven/1.0.0/test_maven-1.0.0.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repository/com/albert/test_maven/test_maven/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repository/com/albert/test_maven/test_maven/maven-metadata.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repository/com/albert/test_maven/test_maven/maven-metadata.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repository/com/hc/plugin/BianYiJiaoBen/1.0.0/BianYiJiaoBen-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../repository/com/hc/plugin/BianYiJiaoBen/1.0.0/BianYiJiaoBen-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repository/com/hc/plugin/BianYiJiaoBen/1.0.1/BianYiJiaoBen-1.0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../repository/com/hc/plugin/BianYiJiaoBen/1.0.1/BianYiJiaoBen-1.0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../repository/com/hc/plugin/test_gradle/1.0.3/test_gradle-1.0.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../repository/com/hc/plugin/test_gradle/1.0.3/test_gradle-1.0.3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testGradlePlugin/test_gradle/src/main/groovy/com/hc/plugin/MyPlugin.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/../../testGradlePlugin/test_gradle/src/main/groovy/com/hc/plugin/MyPlugin.groovy" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/replugin-host-lib">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="replugin-host-library" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="replugin-host-library" type="f1a62948:ProjectNode" />
+                <item name=":replugin-host-lib" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="replugin-host-library" type="f1a62948:ProjectNode" />
+                <item name=":replugin-host-lib" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="replugin-host-library" type="f1a62948:ProjectNode" />
+                <item name=":replugin-host-lib" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="upload" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/replugin-host-lib/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="695">
+              <caret line="67" selection-start-line="67" selection-end-line="68" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#602#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/replugin-host-lib/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1976" />
+    <option name="y" value="140" />
+    <option name="width" value="1936" />
+    <option name="height" value="1054" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="replugin-host-library" type="b2602c69:ProjectViewProjectNode" />
+              <item name="replugin-host-library" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="C:/Program Files/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.C:/AndroidStudioWorkspace/RePluginSample/replugin/replugin-host-library/replugin-host-lib [uploadArchives]">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/AndroidStudioWorkspace/RePluginSample/replugin/replugin-host-library/replugin-host-lib [uploadArchives]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/replugin-host-lib" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="uploadArchives" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="replugin-host-library [uploadArchives]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="uploadArchives" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="replugin-host-library:replugin-host-lib [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/replugin-host-lib" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.replugin-host-library [uploadArchives]" />
+        <item itemvalue="Gradle.replugin-host-library:replugin-host-lib [assemble]" />
+        <item itemvalue="Gradle.C:/AndroidStudioWorkspace/RePluginSample/replugin/replugin-host-library/replugin-host-lib [uploadArchives]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa02ab41-2b79-4283-82ba-15ad777b1d90" name="Default Changelist" comment="" />
+      <created>1578642404108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578642404108</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.18869936" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Resources Explorer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="MyBatis Log" order="0" />
+      <window_info active="true" anchor="bottom" id="Run" order="1" visible="true" weight="0.45481336" />
+      <window_info anchor="bottom" id="SonarLint" order="2" />
+      <window_info anchor="bottom" id="Logcat" order="3" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Android Profiler" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.14734773" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.35952848" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" visible="true" weight="0.20628998" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/replugin/ContextInjector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/replugin-host-lib/src/main/java/com/qihoo360/i/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4180">
+          <caret line="78" column="19" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#602#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#602#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/replugin-host-lib/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="695">
+          <caret line="67" selection-start-line="67" selection-end-line="68" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#602#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
