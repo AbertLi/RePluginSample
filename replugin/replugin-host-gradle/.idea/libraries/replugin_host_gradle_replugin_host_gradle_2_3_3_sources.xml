@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="replugin-host-gradle.replugin-host-gradle-2.3.3-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/libs/replugin-host-gradle-2.3.3-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

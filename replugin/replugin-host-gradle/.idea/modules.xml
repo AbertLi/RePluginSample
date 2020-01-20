@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../replugin-sample-extra-fresco/FrescoHost/FrescoHost.iml" filepath="$PROJECT_DIR$/../replugin-sample-extra-fresco/FrescoHost/FrescoHost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../replugin-sample-extra-fresco/FrescoPlugin/FrescoPlugin.iml" filepath="$PROJECT_DIR$/../replugin-sample-extra-fresco/FrescoPlugin/FrescoPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../RePluginSample.iml" filepath="$PROJECT_DIR$/../../RePluginSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../app/app.iml" filepath="$PROJECT_DIR$/../../app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/replugin-host-gradle.iml" filepath="$PROJECT_DIR$/replugin-host-gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../replugin-host-library/replugin-host-library.iml" filepath="$PROJECT_DIR$/../replugin-host-library/replugin-host-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../replugin-plugin-gradle/replugin-plugin-gradle.iml" filepath="$PROJECT_DIR$/../replugin-plugin-gradle/replugin-plugin-gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../replugin-plugin-library/replugin-plugin-library.iml" filepath="$PROJECT_DIR$/../replugin-plugin-library/replugin-plugin-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../testGradlePlugin/test2_gradle/test2_gradle.iml" filepath="$PROJECT_DIR$/../../testGradlePlugin/test2_gradle/test2_gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../testGradlePlugin/test_gradle/test_gradle.iml" filepath="$PROJECT_DIR$/../../testGradlePlugin/test_gradle/test_gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../test_maven/test_maven.iml" filepath="$PROJECT_DIR$/../../test_maven/test_maven.iml" />
     </modules>
   </component>
 </project>

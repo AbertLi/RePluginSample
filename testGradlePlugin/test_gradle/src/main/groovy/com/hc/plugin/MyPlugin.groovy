@@ -7,7 +7,7 @@ public class MyPlugin implements Plugin<Project> {
 
     void apply(Project project) {
         System.out.println("========================")
-        System.out.println("hello gradle plugin!")
+        System.out.println("hello gradle plugin! run test Gradle")
         System.out.println("========================")
     }
 }

@@ -4,9 +4,9 @@ buildscript {
     repositories {
         google()
         jcenter()
-        maven{
-            url uri('C://AndroidStudioWorkspace/RePluginSample/repository')//本地maven地址仓库,目前用于gradle
-        }
+//        maven{
+//            url uri('C://AndroidStudioWorkspace/RePluginSample/repository')//本地maven地址仓库,目前用于gradle
+//        }
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.3.2'
@@ -18,16 +18,16 @@ buildscript {
         classpath 'com.qihoo360.replugin:replugin-host-gradle:2.3.2'
 
         //自定义gradle 插件本地maven的引用
-        classpath 'com.hc.plugin:test_gradle:1.0.3'
+//        classpath 'com.hc.plugin:test_gradle:1.0.3'
     }
 }
-apply plugin: 'com.hc.plugins'//调用 test_gradle这个module下面后缀名为properties的文件名。从而调用这个module
+//apply plugin: 'com.hc.plugins'//调用 test_gradle这个module下面后缀名为properties的文件名。从而调用这个module
 
 allprojects {
     repositories {
         google()
         jcenter()
-        maven { url "file://C:/AndroidStudioWorkspace/RePluginSample/repository" }//目前用于test_maven
+//        maven { url "file://C:/AndroidStudioWorkspace/RePluginSample/repository" }//目前用于test_maven
     }
 }
 
